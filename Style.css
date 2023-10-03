@@ -4,14 +4,14 @@
 }
 
 body {
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     background: #f1f1f1;
 }
 .header {
     padding: 30px;
     text-align: center;
-    background: white;
+    background-image: url("back.jpg");
 }
 
 .header h1 {
@@ -19,13 +19,13 @@ body {
 }
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #87D7FF;
 }
 
 .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #505DCF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
